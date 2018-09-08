@@ -80,4 +80,4 @@ async def stop(ctx):
 
 
 
-bot.run(os.environ['BOT_TOKEN'])
+bot.run(os.environ['MzAyNzc5MzAyODcxNTY0Mjg4.DnVhZQ.isjR4By8NQX7QvwroeTqC6BokvY'])
